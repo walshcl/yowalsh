@@ -22,11 +22,11 @@ You can see more of my recent projects here: https://walsh.cl/my-work/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
+- [Chilean Spanish Slang: The Naughty Words Edition](https://walsh.cl/chilean-spanish-slang-the-naughty-words-edition/)
 - [A Bit of Spring Teching](https://walsh.cl/a-bit-of-spring-teching/)
 - [Chilean Spanish Your Dictionary Is Missing](https://walsh.cl/chilean-spanish-your-dictionary-is-missing/)
 - [A Pet Project: Zodiacl](https://walsh.cl/a-pet-project-zodiacl/)
 - [You&#39;re Going to Beg For An Algocracy](https://walsh.cl/youre-going-to-beg-for-an-algocracy/)
-- [Error 404: Peace &amp; Unity Not Found - World Cup Edition](https://walsh.cl/error-404-peace-and-unity-not-found-world-cup-edition/)
 <!-- BLOG-POST-LIST:END -->
 
 ### **Follow Me Here:**
